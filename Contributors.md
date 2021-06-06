@@ -149,4 +149,5 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111007 - Takuto Akiyoshi<br/>
 2111017 - Tokimune Ishiyama<br/>
 2111121 - Ryota Saze <br/>
+2111252 - Daiki Mayumi<br/>
 2111070 - Hiroto Oshimi<br/>
